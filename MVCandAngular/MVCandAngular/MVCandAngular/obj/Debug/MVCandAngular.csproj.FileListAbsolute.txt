@@ -1,0 +1,55 @@
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\MVCandAngular.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\MVCandAngular.pdb
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\Antlr3.Runtime.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\EntityFramework.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\Microsoft.Web.Infrastructure.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\Newtonsoft.Json.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Net.Http.Formatting.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Http.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Http.WebHost.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Mvc.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Optimization.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Providers.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Razor.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Deployment.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Razor.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\WebGrease.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\EntityFramework.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\Newtonsoft.Json.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Net.Http.Formatting.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Http.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Http.WebHost.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Mvc.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.Razor.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Deployment.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Razor.xml
+F:\Amit\Projects\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.csprojResolveAssemblyReference.cache
+F:\Amit\Projects\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.dll
+F:\Amit\Projects\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.pdb
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\MVCandAngular.dll.config
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\MVCandAngular.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\MVCandAngular.pdb
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\Antlr3.Runtime.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\EntityFramework.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\Newtonsoft.Json.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Mvc.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Optimization.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Providers.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Razor.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Razor.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\WebGrease.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\EntityFramework.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\Newtonsoft.Json.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Mvc.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.Razor.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\bin\System.Web.WebPages.Razor.xml
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.csprojResolveAssemblyReference.cache
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.dll
+C:\Zamin Backup\angularjs\MVCandAngular\MVCandAngular\MVCandAngular\obj\Debug\MVCandAngular.pdb
